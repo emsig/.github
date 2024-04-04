@@ -23,6 +23,10 @@ The following repo contains notebooks to reproduce with **empymod** all numerica
   *Slob, E., and M. Mulder*, 2016 ([10.1190/geo2015-0337.1](https://doi.org/10.1190/geo2015-0337.1))  
   ▶️ [3Dhom](https://github.com/emsig/3Dhom)
 
+- **The electromagnetic response in a layered vertical transverse isotropic medium: A new look at an old problem**  
+  *Hunziker, J., J. Thorbecke, and E. Slob*, 2015 ([10.1190/geo2013-0411.1](https://doi.org/10.1190/geo2013-0411.1))  
+  ▶️ [EMmod](https://github.com/emsig/EMmod)
+
 ## 📄 Publications
 
 The repo ▶️ [publications](https://github.com/emsig/publications) contains a list of publications related to the codes. The following a list with the repos for the most important articles, all fully reproducible:
