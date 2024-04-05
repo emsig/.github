@@ -27,6 +27,11 @@ The following repo contains notebooks to reproduce with **empymod** all numerica
   *Hunziker, J., J. Thorbecke, and E. Slob*, 2015 ([10.1190/geo2013-0411.1](https://doi.org/10.1190/geo2013-0411.1))  
   ▶️ [EMmod](https://github.com/emsig/EMmod)
 
+- **Inversion of controlled-source electromagnetic reflection responses**  
+  *Hunziker, J., J. Thorbecke, J. Brackenhoff, and Evert Slob*, 2016 ([10.1190/geo2015-0320.1](https://doi.org/10.1190/geo2015-0320.1))  
+  ▶️ [iEMmod](https://github.com/emsig/iEMmod)
+
+
 ## 📄 Publications
 
 The repo ▶️ [publications](https://github.com/emsig/publications) contains a list of publications related to the codes. The following a list with the repos for the most important articles, all fully reproducible:
