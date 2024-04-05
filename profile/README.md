@@ -28,7 +28,7 @@ The following repo contains notebooks to reproduce with **empymod** all numerica
   ▶️ [EMmod](https://github.com/emsig/EMmod)
 
 - **Inversion of controlled-source electromagnetic reflection responses**  
-  *Hunziker, J., J. Thorbecke, J. Brackenhoff, and Evert Slob*, 2016 ([10.1190/geo2015-0320.1](https://doi.org/10.1190/geo2015-0320.1))  
+  *Hunziker, J., J. Thorbecke, J. Brackenhoff, and E. Slob*, 2016 ([10.1190/geo2015-0320.1](https://doi.org/10.1190/geo2015-0320.1))  
   ▶️ [iEMmod](https://github.com/emsig/iEMmod)
 
 
