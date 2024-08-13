@@ -8,6 +8,7 @@
 - ▶️ [empymod](https://github.com/emsig/empymod): Full 3D electromagnetic modeller for 1D VTI media
 - ▶️ [emg3d](https://github.com/emsig/emg3d): Multigrid solver for 3D electromagnetic diffusion
 - ▶️ [libdlf](https://github.com/emsig/libdlf): Library of Digital Linear Filters
+- ▶️ [elfe3D](https://github.com/emsig/elfe3D): Modelling with the total electric field approach using finite elements in 3D
 
 
 ## 📖 Introduction to Controlled-Source Electromagnetic Methods
